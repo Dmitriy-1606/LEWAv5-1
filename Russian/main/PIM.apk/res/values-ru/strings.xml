@@ -1381,8 +1381,8 @@
     <string name="menu_mms_timer_text">Таймер</string>
     <string name="mms_timer_add_error">Ошибка таймера, не раньше системного времени</string>
     <string name="attach_select_local_video">Локальное видеo</string>
-    <string name="sms_backup_store_in">Внутреннее хранилище</string>
-    <string name="sms_backup_sd_card">SD-карта</string>
+    <string name="sms_backup_store_in">SD-карта</string>
+    <string name="sms_backup_sd_card">Внутреннее хранилище</string>
     <string name="sms_import_sdcard">Импорт SMS c: %s</string>
     <string name="sms_export_sdcard">Экспорт SMS на: %s</string>
     <string name="sms_whether_export_item">Вы хотите экспортировать на: %s?</string>
