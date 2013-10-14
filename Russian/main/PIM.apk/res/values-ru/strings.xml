@@ -1362,7 +1362,7 @@
     <string name="mms_menu_del_message">Удалить сообщение</string>
     <string name="mms_menu_quick_text">Быстрый текст</string>
     <string name="mms_select_contacts_favorites">Избранное</string>
-    <string name="sms_recommend_message">Рекомендованные сообщения</string>
+    <string name="sms_recommend_message">Шаблоны SMS</string>
     <string name="sms_recommend_copy_text">Копировать</string>
     <string name="sms_recommend_copy_text_ready">Скопировано</string>
     <string name="mms_menu_select_title">Выбрать</string>
