@@ -20,7 +20,7 @@
     <string name="time_month">В этом месяце</string>
     <string name="time_yesterday">"Вчера</string>
     <string name="error_input">Номер ошибки</string>
-    <string name="usage_title">Расход трафика</string>
+    <string name="usage_title">Трафик</string>
     <string name="usage_today_usage">Сегодня</string>
     <string name="usage_daily_remain">Ежедневно</string>
     <string name="usage_day_remain">Осталось</string>
@@ -38,7 +38,7 @@
     <string name="usage_adjust_later">Синхронизировать позже</string>
     <string name="usage_default">SIM по умолчанию</string>
     <string name="detail_title">Использование детализации</string>
-    <string name="ranking_title">Рейтинг</string>
+    <string name="ranking_title">Контроль</string>
     <string name="firewall_title">Межсетевой экран</string>
     <string name="pref_title">Параметры</string>
     <string name="pref_alert_title">Дружественные советы</string>
