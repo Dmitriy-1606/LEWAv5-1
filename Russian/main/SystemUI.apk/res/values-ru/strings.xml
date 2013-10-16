@@ -209,7 +209,7 @@
     <string name="statusbarsettings">Настройки строки уведомлений</string>
     <string name="today_usage">Сегодня:</string>
     <string name="month_left_usage">Осталось:</string>
-    <string name="double_statusbar_setting">Двухстраничная строка состояния</string>
+    <string name="double_statusbar_setting">Двухстраничная панель уведомлений</string>
     <string name="settings_double_status">key_double_status</string>
     <string name="widget_setting">Позиции в строке уведомлений</string>
     <string name="usagedata_setting">Показывать расход трафика</string>
