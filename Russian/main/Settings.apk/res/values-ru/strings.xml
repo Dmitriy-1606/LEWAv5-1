@@ -2308,7 +2308,7 @@
     <string name="settings_title">ВСЕ НАСТРОЙКИ</string>
     <string name="custom_frequent_foot_btn_text">Изменить....</string>
     <string name="frequent_settings_notice_title">Скрыть настройки ниже</string>
-    <string name="status_bar_title">Строка уведомлений</string>
+    <string name="status_bar_title">Панель уведомлений</string>
     <string name="custom_frequently_title">Изменить пункты настроек</string>
     <string name="ringvolume_vibrate_title">Мелодии и вибрация</string>
     <string name="audio_sound_title">Звук</string>
