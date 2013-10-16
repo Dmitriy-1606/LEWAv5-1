@@ -111,7 +111,7 @@
     <string name="data_plan_button_set">Задать тарифный план</string>
     <string name="data_plan_button_close">Прямое закрытие (%d)</string>
     <string name="usagedata_setting">Трафик в уведомлениях</string>
-    <string name="netspeed_setting">Скорость сети в строке уведомлений</string>
+    <string name="netspeed_setting">Показывать скорость сети</string>
     <string name="daily_usage_warning_title">Дневное предупреждение</string>
     <string name="daily_usage_warning_message">"Сегодня передача данных составила %1$s, это больше дневного лимита. Рекомендуется проверить и настроить месячный тарифный план"</string>
     <string name="daily_usage_warning_summary_unset">Пожалуйста, вначале задайте тарифный план</string>
